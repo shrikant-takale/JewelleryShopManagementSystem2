@@ -1,0 +1,88 @@
+C:\Shrikant BCA Projects\Developed Projects\JewelleryShopManagementSystem\JewelleryShopManagementSystem\obj\x86\Debug\JewelleryShopManagementSystem.frmAddBill.resources
+C:\Shrikant BCA Projects\Developed Projects\JewelleryShopManagementSystem\JewelleryShopManagementSystem\obj\x86\Debug\JewelleryShopManagementSystem.frmAddCustomer.resources
+C:\Shrikant BCA Projects\Developed Projects\JewelleryShopManagementSystem\JewelleryShopManagementSystem\obj\x86\Debug\JewelleryShopManagementSystem.frmAddEmployee.resources
+C:\Shrikant BCA Projects\Developed Projects\JewelleryShopManagementSystem\JewelleryShopManagementSystem\obj\x86\Debug\JewelleryShopManagementSystem.frmAddItems.resources
+C:\Shrikant BCA Projects\Developed Projects\JewelleryShopManagementSystem\JewelleryShopManagementSystem\obj\x86\Debug\JewelleryShopManagementSystem.frmAddPayment.resources
+C:\Shrikant BCA Projects\Developed Projects\JewelleryShopManagementSystem\JewelleryShopManagementSystem\obj\x86\Debug\JewelleryShopManagementSystem.frmAddPurchase.resources
+C:\Shrikant BCA Projects\Developed Projects\JewelleryShopManagementSystem\JewelleryShopManagementSystem\obj\x86\Debug\JewelleryShopManagementSystem.frmAddShop.resources
+C:\Shrikant BCA Projects\Developed Projects\JewelleryShopManagementSystem\JewelleryShopManagementSystem\obj\x86\Debug\JewelleryShopManagementSystem.frmAddSupplier.resources
+C:\Shrikant BCA Projects\Developed Projects\JewelleryShopManagementSystem\JewelleryShopManagementSystem\obj\x86\Debug\JewelleryShopManagementSystem.frmLogin.resources
+C:\Shrikant BCA Projects\Developed Projects\JewelleryShopManagementSystem\JewelleryShopManagementSystem\obj\x86\Debug\JewelleryShopManagementSystem.frmMain.resources
+C:\Shrikant BCA Projects\Developed Projects\JewelleryShopManagementSystem\JewelleryShopManagementSystem\obj\x86\Debug\JewelleryShopManagementSystem.Resources.resources
+C:\Shrikant BCA Projects\Developed Projects\JewelleryShopManagementSystem\JewelleryShopManagementSystem\obj\x86\Debug\JewelleryShopManagementSystem.frmMain.en.resources
+C:\Shrikant BCA Projects\Developed Projects\JewelleryShopManagementSystem\JewelleryShopManagementSystem\obj\x86\Debug\JewelleryShopManagementSystem.vbproj.GenerateResource.Cache
+C:\Shrikant BCA Projects\Developed Projects\JewelleryShopManagementSystem\JewelleryShopManagementSystem\bin\Debug\JewelleryShopManagementSystem.exe
+C:\Shrikant BCA Projects\Developed Projects\JewelleryShopManagementSystem\JewelleryShopManagementSystem\bin\Debug\JewelleryShopManagementSystem.pdb
+C:\Shrikant BCA Projects\Developed Projects\JewelleryShopManagementSystem\JewelleryShopManagementSystem\bin\Debug\JewelleryShopManagementSystem.xml
+C:\Shrikant BCA Projects\Developed Projects\JewelleryShopManagementSystem\JewelleryShopManagementSystem\bin\Debug\en\JewelleryShopManagementSystem.resources.dll
+C:\Shrikant BCA Projects\Developed Projects\JewelleryShopManagementSystem\JewelleryShopManagementSystem\obj\x86\Debug\en\JewelleryShopManagementSystem.resources.dll
+C:\Shrikant BCA Projects\Developed Projects\JewelleryShopManagementSystem\JewelleryShopManagementSystem\obj\x86\Debug\JewelleryShopManagementSystem.exe
+C:\Shrikant BCA Projects\Developed Projects\JewelleryShopManagementSystem\JewelleryShopManagementSystem\obj\x86\Debug\JewelleryShopManagementSystem.xml
+C:\Shrikant BCA Projects\Developed Projects\JewelleryShopManagementSystem\JewelleryShopManagementSystem\obj\x86\Debug\JewelleryShopManagementSystem.pdb
+H:\PROJECT\JewelleryShopManagementSystem\JewelleryShopManagementSystem\obj\x86\Debug\JewelleryShopManagementSystem.exe
+H:\PROJECT\JewelleryShopManagementSystem\JewelleryShopManagementSystem\obj\x86\Debug\JewelleryShopManagementSystem.xml
+H:\PROJECT\JewelleryShopManagementSystem\JewelleryShopManagementSystem\obj\x86\Debug\JewelleryShopManagementSystem.pdb
+E:\dot net project\JewelleryShopManagementSystem\JewelleryShopManagementSystem\obj\x86\Debug\JewelleryShopManagementSystem.exe
+E:\dot net project\JewelleryShopManagementSystem\JewelleryShopManagementSystem\obj\x86\Debug\JewelleryShopManagementSystem.xml
+E:\dot net project\JewelleryShopManagementSystem\JewelleryShopManagementSystem\obj\x86\Debug\JewelleryShopManagementSystem.pdb
+E:\dot net project\JewelleryShopManagementSystem\JewelleryShopManagementSystem\bin\Debug\shopdb.mdb
+E:\dot net project\JewelleryShopManagementSystem\JewelleryShopManagementSystem\bin\Debug\JewelleryShopManagementSystem.exe.config
+E:\dot net project\JewelleryShopManagementSystem\JewelleryShopManagementSystem\bin\Debug\JewelleryShopManagementSystem.exe
+E:\dot net project\JewelleryShopManagementSystem\JewelleryShopManagementSystem\bin\Debug\JewelleryShopManagementSystem.pdb
+E:\dot net project\JewelleryShopManagementSystem\JewelleryShopManagementSystem\bin\Debug\JewelleryShopManagementSystem.xml
+E:\dot net project\JewelleryShopManagementSystem\JewelleryShopManagementSystem\bin\Debug\en\JewelleryShopManagementSystem.resources.dll
+E:\dot net project\JewelleryShopManagementSystem\JewelleryShopManagementSystem\obj\x86\Debug\JewelleryShopManagementSystem.frmAddBill.resources
+E:\dot net project\JewelleryShopManagementSystem\JewelleryShopManagementSystem\obj\x86\Debug\JewelleryShopManagementSystem.frmAddCustomer.resources
+E:\dot net project\JewelleryShopManagementSystem\JewelleryShopManagementSystem\obj\x86\Debug\JewelleryShopManagementSystem.frmAddEmployee.resources
+E:\dot net project\JewelleryShopManagementSystem\JewelleryShopManagementSystem\obj\x86\Debug\JewelleryShopManagementSystem.frmAddPayment.resources
+E:\dot net project\JewelleryShopManagementSystem\JewelleryShopManagementSystem\obj\x86\Debug\JewelleryShopManagementSystem.frmAddPurchase.resources
+E:\dot net project\JewelleryShopManagementSystem\JewelleryShopManagementSystem\obj\x86\Debug\JewelleryShopManagementSystem.frmAddShop.resources
+E:\dot net project\JewelleryShopManagementSystem\JewelleryShopManagementSystem\obj\x86\Debug\JewelleryShopManagementSystem.frmAddSupplier.resources
+E:\dot net project\JewelleryShopManagementSystem\JewelleryShopManagementSystem\obj\x86\Debug\JewelleryShopManagementSystem.frmMain.resources
+E:\dot net project\JewelleryShopManagementSystem\JewelleryShopManagementSystem\obj\x86\Debug\JewelleryShopManagementSystem.Resources.resources
+E:\dot net project\JewelleryShopManagementSystem\JewelleryShopManagementSystem\obj\x86\Debug\JewelleryShopManagementSystem.frmMain.en.resources
+E:\dot net project\JewelleryShopManagementSystem\JewelleryShopManagementSystem\obj\x86\Debug\JewelleryShopManagementSystem.vbproj.GenerateResource.Cache
+E:\dot net project\JewelleryShopManagementSystem\JewelleryShopManagementSystem\obj\x86\Debug\en\JewelleryShopManagementSystem.resources.dll
+E:\dot net project\JewelleryShopManagementSystem\JewelleryShopManagementSystem\obj\x86\Debug\JewelleryShopManagementSystem.vbprojResolveAssemblyReference.cache
+E:\dot net project\JewelleryShopManagementSystem\JewelleryShopManagementSystem\obj\x86\Debug\JewelleryShopManagementSystem.Form1.resources
+E:\dot net project\JewelleryShopManagementSystem\JewelleryShopManagementSystem\obj\x86\Debug\JewelleryShopManagementSystem.frmAdditem.resources
+E:\dot net project\JewelleryShopManagementSystem\JewelleryShopManagementSystem\obj\x86\Debug\JewelleryShopManagementSystem.Form2.resources
+E:\dot net project\JewelleryShopManagementSystem\JewelleryShopManagementSystem\obj\x86\Debug\JewelleryShopManagementSystem.Form3.resources
+E:\dot net project\JewelleryShopManagementSystem\JewelleryShopManagementSystem\obj\x86\Debug\JewelleryShopManagementSystem.Form4.resources
+E:\dot net project\JewelleryShopManagementSystem\JewelleryShopManagementSystem\obj\x86\Debug\JewelleryShopManagementSystem.Form5.resources
+E:\dot net project\JewelleryShopManagementSystem\JewelleryShopManagementSystem\obj\x86\Debug\JewelleryShopManagementSystem.Form6.resources
+E:\dot net project\JewelleryShopManagementSystem\JewelleryShopManagementSystem\obj\x86\Debug\JewelleryShopManagementSystem.Form7.resources
+E:\dot net project\JewelleryShopManagementSystem\JewelleryShopManagementSystem\obj\x86\Debug\JewelleryShopManagementSystem.Form8.resources
+E:\dot net project\JewelleryShopManagementSystem\JewelleryShopManagementSystem\obj\x86\Debug\JewelleryShopManagementSystem.aLoginForm1.resources
+C:\PROJECT\shop\JewelleryShopManagementSystem\bin\Debug\JewelleryShopManagementSystem.exe.config
+C:\PROJECT\shop\JewelleryShopManagementSystem\obj\x86\Debug\JewelleryShopManagementSystem.exe
+C:\PROJECT\shop\JewelleryShopManagementSystem\obj\x86\Debug\JewelleryShopManagementSystem.xml
+C:\PROJECT\shop\JewelleryShopManagementSystem\obj\x86\Debug\JewelleryShopManagementSystem.pdb
+C:\PROJECT\shop\JewelleryShopManagementSystem\bin\Debug\shopdb.mdb
+C:\PROJECT\shop\JewelleryShopManagementSystem\bin\Debug\JewelleryShopManagementSystem.exe
+C:\PROJECT\shop\JewelleryShopManagementSystem\bin\Debug\JewelleryShopManagementSystem.pdb
+C:\PROJECT\shop\JewelleryShopManagementSystem\bin\Debug\JewelleryShopManagementSystem.xml
+C:\PROJECT\shop\JewelleryShopManagementSystem\bin\Debug\en\JewelleryShopManagementSystem.resources.dll
+C:\PROJECT\shop\JewelleryShopManagementSystem\obj\x86\Debug\JewelleryShopManagementSystem.vbprojResolveAssemblyReference.cache
+C:\PROJECT\shop\JewelleryShopManagementSystem\obj\x86\Debug\JewelleryShopManagementSystem.Form1.resources
+C:\PROJECT\shop\JewelleryShopManagementSystem\obj\x86\Debug\JewelleryShopManagementSystem.Form2.resources
+C:\PROJECT\shop\JewelleryShopManagementSystem\obj\x86\Debug\JewelleryShopManagementSystem.Form3.resources
+C:\PROJECT\shop\JewelleryShopManagementSystem\obj\x86\Debug\JewelleryShopManagementSystem.Form4.resources
+C:\PROJECT\shop\JewelleryShopManagementSystem\obj\x86\Debug\JewelleryShopManagementSystem.Form5.resources
+C:\PROJECT\shop\JewelleryShopManagementSystem\obj\x86\Debug\JewelleryShopManagementSystem.Form6.resources
+C:\PROJECT\shop\JewelleryShopManagementSystem\obj\x86\Debug\JewelleryShopManagementSystem.Form7.resources
+C:\PROJECT\shop\JewelleryShopManagementSystem\obj\x86\Debug\JewelleryShopManagementSystem.Form8.resources
+C:\PROJECT\shop\JewelleryShopManagementSystem\obj\x86\Debug\JewelleryShopManagementSystem.frmAddbill.resources
+C:\PROJECT\shop\JewelleryShopManagementSystem\obj\x86\Debug\JewelleryShopManagementSystem.frmAddCustomer.resources
+C:\PROJECT\shop\JewelleryShopManagementSystem\obj\x86\Debug\JewelleryShopManagementSystem.frmAddEmployee.resources
+C:\PROJECT\shop\JewelleryShopManagementSystem\obj\x86\Debug\JewelleryShopManagementSystem.frmAdditem.resources
+C:\PROJECT\shop\JewelleryShopManagementSystem\obj\x86\Debug\JewelleryShopManagementSystem.frmAddPayment.resources
+C:\PROJECT\shop\JewelleryShopManagementSystem\obj\x86\Debug\JewelleryShopManagementSystem.frmAddPurchase.resources
+C:\PROJECT\shop\JewelleryShopManagementSystem\obj\x86\Debug\JewelleryShopManagementSystem.frmAddShop.resources
+C:\PROJECT\shop\JewelleryShopManagementSystem\obj\x86\Debug\JewelleryShopManagementSystem.frmAddSupplier.resources
+C:\PROJECT\shop\JewelleryShopManagementSystem\obj\x86\Debug\JewelleryShopManagementSystem.frmMain.resources
+C:\PROJECT\shop\JewelleryShopManagementSystem\obj\x86\Debug\JewelleryShopManagementSystem.aLoginForm1.resources
+C:\PROJECT\shop\JewelleryShopManagementSystem\obj\x86\Debug\JewelleryShopManagementSystem.Resources.resources
+C:\PROJECT\shop\JewelleryShopManagementSystem\obj\x86\Debug\JewelleryShopManagementSystem.frmMain.en.resources
+C:\PROJECT\shop\JewelleryShopManagementSystem\obj\x86\Debug\JewelleryShopManagementSystem.vbproj.GenerateResource.Cache
+C:\PROJECT\shop\JewelleryShopManagementSystem\obj\x86\Debug\en\JewelleryShopManagementSystem.resources.dll
